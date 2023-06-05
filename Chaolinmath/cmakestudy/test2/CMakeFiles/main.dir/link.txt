@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/main.dir/main.c.o CMakeFiles/main.dir/func1.c.o CMakeFiles/main.dir/func2.c.o -o main 

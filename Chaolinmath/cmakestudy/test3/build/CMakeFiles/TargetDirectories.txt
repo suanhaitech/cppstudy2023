@@ -1,0 +1,5 @@
+/home/lin/gitlearn/cppstudy2023/Chaolinmath/cmakestudy/test3/build/CMakeFiles/edit_cache.dir
+/home/lin/gitlearn/cppstudy2023/Chaolinmath/cmakestudy/test3/build/CMakeFiles/rebuild_cache.dir
+/home/lin/gitlearn/cppstudy2023/Chaolinmath/cmakestudy/test3/build/src/CMakeFiles/main.dir
+/home/lin/gitlearn/cppstudy2023/Chaolinmath/cmakestudy/test3/build/src/CMakeFiles/edit_cache.dir
+/home/lin/gitlearn/cppstudy2023/Chaolinmath/cmakestudy/test3/build/src/CMakeFiles/rebuild_cache.dir
