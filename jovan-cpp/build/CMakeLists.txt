@@ -1,0 +1,5 @@
+cmake_minimum_required( VERSION 2.8 )
+set( CMAKE_CXX_FLAGS "-std=c++11" )
+PROJECT(build)
+MESSAGE(STATUS "Project: SERVER") 
+add_executable(helloworld hello.cpp)
